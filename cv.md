@@ -89,9 +89,15 @@ _June 2011 - January 2018_ | *Ukraine*
 
 _Web Design_ | *Web Developer* | _Website administration_ | *Manager Marketing Specialist*
 
-- [Energy Taxi](www.energytaxi.kiev.ua)
-- [StarPom](www.starpom.pro)
-- [JustVia](www.justvia.com)
+- [Wild Life RSS](https://wildlife-rsschool.netlify.app/)
+- [Tic-Tac-Toe RSS](https://rolling-scopes-school.github.io/agentfreedom-JSFEPRESCHOOL/tic-tac-toe/)
+- [Aim Game](https://aim-game-for-free.netlify.app/index.html)
+- [Photographer Portfolio RSS](https://rolling-scopes-school.github.io/agentfreedom-JSFEPRESCHOOL/portfolio/)
+- [Work Examples Page](https://agentfreedom.github.io/portfolio/work/)
+- [My CV](https://agentfreedom.github.io/cv/)
+- [Virtual Piano RSS](https://agentfreedom-virtual-piano.netlify.app/)
+- [Louvre Museum Slider](https://louvre-museum-slider.netlify.app/)
+- [Board Sources Circle Play App](https://board-sources-circle-play-app.netlify.app/)
 
 #### Works not related to the IT sector - Employee
 
